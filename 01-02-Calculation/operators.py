@@ -29,7 +29,3 @@ print( a**2) # a
 # floor division 
 print("floor division: ", 5 // b) # dibulatkan sebagai int
 print("Division: ", 5 // 3) # float result
-
-
-
-
