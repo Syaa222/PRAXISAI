@@ -14,6 +14,3 @@ This is a code for a simple multi-purpose calculator
 4. The app asks for user's, The second number 
     ("Enter the second number")
 5. Gift the result for Addition
-6. End
-
-#
